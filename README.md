@@ -4,7 +4,10 @@ I am a Software Devleoper based just outside of London. I am currently focusing 
 but I love learning new languages, frameworks, and technologies to work on all sorts of different projects.
 
 ## 🛠️ My Skillset
-  - Languages `code`
+  - Languages: `JavaScript`, `Python`, a bit of `C`
+  - Front-End: `React`, `Svelte`, `SvelteKit`, `Axios`
+  - Back-End: `Express`, `Flash`, `PSQL`, `Firebase`, `RESTful APIs`
+  - Testing: `Jest`, `Pytest`
 
 <!--
 **swoody2527/swoody2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
