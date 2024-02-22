@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Sam 👋
+
+I am a Software Devleoper based just outside of London. I am currently focusing on honing my JavaScript skills
+but I love learning new languages, frameworks, and technologies to work on all sorts of different projects.
+
+## 🛠️ My Skillset
+  - Languages `code`
 
 <!--
 **swoody2527/swoody2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
