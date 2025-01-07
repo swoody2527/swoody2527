@@ -1,8 +1,6 @@
 ## Hi there, my name is Sam 👋
 
-I am a Software Devleoper based just outside of London. I am currently focusing on honing my JavaScript skills
-but I love learning new languages, frameworks, and technologies to work on all sorts of different projects. 
-I really enjoy working with the back-end to create the guts of systems, but I also enjoy to dabble in front-end.
+I am a Software Devleoper based just outside of London. I am currently completing my MSc Computer Science at the University of Sussex.
 
 ### 🛠️ My Skillset
   - Languages: `JavaScript`, `Python`, a bit of `C`
