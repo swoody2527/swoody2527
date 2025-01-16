@@ -10,8 +10,7 @@ I am a Software Devleoper based just outside of London. I am currently completin
   - Soft Skills: `Paired Programming`, `SCRUM`, `Agile`
 
 ### 🔭 I’m currently working on
-  - Honing some of my DSA skills, mostly through the use of JavaScript
-  - Learning more C based languages such as C# and C++
+  - Completing my MSc!
 
 ### ⚡ Fun facts
   - I love learning foreign languages! I am currently slowly bridging my way into fluency with Korean whilst starting out with Spanish.
