@@ -14,7 +14,6 @@ I am a Software Devleoper based just outside of London. I am currently completin
 
 ### ⚡ Fun facts
   - I love learning foreign languages! I am currently slowly bridging my way into fluency with Korean whilst starting out with Spanish.
-  - I have a small white Chihuahua/Pomeranian cross called Haru which means 'day' in Korean, or 'spring' in Japanese
   - My first coding project was called 'AQADo', a turn based counter game created for a GCSE back in 2015.
 
 ### 🌱 What I would like to learn in the future
