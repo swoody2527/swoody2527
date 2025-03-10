@@ -5,7 +5,7 @@ I am a Software Devleoper based just outside of London. I am currently completin
 ### 🛠️ My Skillset
   - Languages: `JavaScript`, `Python`, a bit of `C`
   - Front-End: `React`, `Svelte`, `SvelteKit`, `Axios`
-  - Back-End: `Express`, `Flash`, `PSQL`, `Firebase`, `RESTful APIs`
+  - Back-End: `Express`, `Flask`, `PSQL`, `Firebase`, `RESTful APIs`
   - Testing: `Jest`, `Pytest`
   - Soft Skills: `Paired Programming`, `SCRUM`, `Agile`
 
